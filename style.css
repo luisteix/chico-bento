@@ -1,0 +1,15 @@
+body{
+background-color: rgb(41, 92, 116);
+color: rgb(1, 4, 5);
+font-family: "Jersey 10", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 10;
+}
+button{
+    background-color: rgb(131, 235, 235);
+    color: black;
+    font-family: "bai jamjuree", sans-serif;
+}
